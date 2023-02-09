@@ -31,10 +31,10 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;">  
     
 </p>
-* [![C#][C#]][C#-url]
+* [![C#][C#.com]][C#-url]
 <br>
 
 <h3>Statistical Data :-</h3>
