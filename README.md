@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - 👯  I’m looking to collaborate with other content creators
 
 -->
-<img src="https://Hello World" alt="160744959694494596" style="max-width: 100%;">
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=halilbrhmkabul&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=halilbrhmkabul&show_icons=true&theme=radical)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;">
 
 
