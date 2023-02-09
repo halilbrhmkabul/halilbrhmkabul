@@ -34,8 +34,7 @@
 <p align="left"> 
     
 </p>
-
-* [![C#][C#.com]][C#-url]
+* [![C#][C#]][C#-url]
 <br>
 
 <h3>Statistical Data :-</h3>
