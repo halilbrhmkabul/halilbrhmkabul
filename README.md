@@ -1,10 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Halil İbrahim KABUL</h1>
-
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+I'm+Halil+Ibrahim+KABUL;Welcome+to+my+Github+page;Web+Dev;Game+Dev"></a>
+</p>
+
+<p align="right">  <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="halilbrhmkabul" /> 
   </p>
 
@@ -12,7 +14,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="halilbrhmkabul" /></p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=halilbrhmkabul)
+
 
 - 🌱 I’m currently learning Web Development and other programming languages
 - 🔭 I’m currently working on C#, Flutter
@@ -31,10 +33,13 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;">  
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/f8f5c4f90fe3c43e5b7858360cf3a4eeffcaa0bdf7352c7c8c4b9c1489bb7f99/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667" alt="unity" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="max-width: 100%;"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank" rel="noreferrer">
     
 </p>
-* [![C#][C#.com]][C#-url]
+
 <br>
 
 <h3>Statistical Data :-</h3>
