@@ -32,9 +32,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    * [![C#][C#]][C#-url]
+    
 </p>
 
+* [![C#][C#.com]][C#-url]
 <br>
 
 <h3>Statistical Data :-</h3>
