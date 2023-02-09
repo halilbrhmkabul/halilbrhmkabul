@@ -34,12 +34,12 @@ Languages and Tools:
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="halilbrhmkabul" /></p>
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=halilbrhmkabul)
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **halil_ibrahim_kabul@hotmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
@@ -53,13 +53,7 @@ Languages and Tools:
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
@@ -99,16 +93,16 @@ Languages and Tools:
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=halilbrhmkabul&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="halilbrhmkabul" 
     bg_color=#808080/></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halilbrhmkabul&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="halilbrhmkabul" /></p>
 
 
       
 
 
-[Adam-pw](https://github.com/Adam-pw)
+[Halil Ibrahim KABUL](https://github.com/halilbrhmkabul)
