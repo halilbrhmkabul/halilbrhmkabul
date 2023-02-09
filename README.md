@@ -5,7 +5,7 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;Web+Dev;Game+Dev"></a>
 </p>
 
-<p align="right">  <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right">  <img src="https://komarev.com/ghpvc/?username=halilbrhmkabul=Profile%20views&color=0e75b6&style=flat"
     alt="halilbrhmkabul" /> 
   </p>
 
