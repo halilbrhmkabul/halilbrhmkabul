@@ -50,7 +50,3 @@
     alt="halilbrhmkabul" /></p>
 
 
-      
-
-
-[Halil Ibrahim KABUL](https://github.com/halilbrhmkabul)
