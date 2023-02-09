@@ -1,9 +1,8 @@
-
-
+## <h1 align="center"> Hi, I'm Halil Ibrahim KABUL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+I'm+Halil+Ibrahim+KABUL;Welcome+to+my+Github+page;Web+Dev;Game+Dev"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;Web+Dev;Game+Dev"></a>
 </p>
 
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
@@ -27,7 +26,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/halilbrhmkabul/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="adam pithewan" height="30" width="40" /></a> <a href="mailto:halil_ibrahim_kabul@hotmail.com"> <img src="https://camo.githubusercontent.com/66983abffc63495d5d2ba763f5979b1f2c18cf4852fc139e35839aef3a249779/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f676d61696c2e737667" alt="salihkamas" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width: 100%;">
 </p>
 
 <br>
