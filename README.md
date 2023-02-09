@@ -16,7 +16,6 @@
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
-- 🔭 I’m currently working on C#, Flutter
 
 
 <br>
