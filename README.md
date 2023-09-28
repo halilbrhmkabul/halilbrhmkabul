@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;Web+Dev;Game+Dev"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page"></a>
 </p>
 
 
@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I am a backend developer and I am constantly trying to improve myself. In addition to working in a company, I also do freelance projects.
 
 
 <br>
